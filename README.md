@@ -68,10 +68,5 @@ var_dump($res);
 ##### 过滤敏感词效果：(replaceKeyWord)
 ![image](https://github.com/MissPP/DfaFilter/raw/master/images/filter1.png)
 
-##### 亲测："本地缓存分词map"效率比较自带函数以及正则 快至几十倍至百倍不等
  
-
-
-
-###### 欢迎PR，建议反馈。欢迎联系QQ：565378270
 
